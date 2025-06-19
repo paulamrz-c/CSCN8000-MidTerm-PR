@@ -24,7 +24,7 @@ The notebook `NB_LR_8963215_AAIML_MidtermPartB.ipynb`  implementing:
 - Visual comparisons (scatter plots and bar charts)
 
 ### HTML Export (for GitHub Pages)
-You can view the published notebook [here](https://paulamrz-c.github.io/CSCN80000-MIDTERM-PR/NB_LR_8963215_AAIML_MidtermPartB.html)
+You can view the published notebook [here](https://paulamrz-c.github.io/CSCN8000-MidTerm-PR/NB_LR_8963215_AAIML_MidtermPartB.html)
 
 ## Quick Start
 
